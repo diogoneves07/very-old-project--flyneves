@@ -1,0 +1,114 @@
+.FlyNeves-logo-black{
+    visibility:hidden;height:0;width:0;display:none;position:absolute
+}
+.icon-open-book-in-html-medium div,.fixed-tools-container,.fixed-tools-button{
+    border-color:#3d7e9a;background-color:#1e1e1e
+}
+.fixed-tools h2{
+    border-color:#979797
+}
+.anchor-link-style-button a{
+    background-color:#979797;color:#000
+}
+.anchor-link-style-button a:hover,.anchor-link-style-button a:focus{
+    background-color:#353333
+}
+
+.code-example {
+    border-color: #19191b;
+}
+.code-comment{
+    color: rgb(122, 160, 47);
+}
+.download-library-button a{
+    background-color: #000;
+    border-color: rgb(102, 102, 102);
+}
+
+.menu-button span{
+    color:transparent
+}
+.footer-main-split-bar{
+    border-color:#42425a
+}
+.footer-main-container li{
+    border-color:transparent
+}
+.projects-list-links a:hover{
+    background-color:#000;border-color:#0095dd
+}
+.paragraph-of-attention i,.paragraph-of-attention span,.projects-list-links a{
+    border-color:white
+}
+.important-content-section-aside h2{
+    border-color:#3d7e9a
+}
+.warning-button span,.icon-warnings-in-html span{
+    color:red
+}
+.buttons-view-content{
+    background-color:#0f0f0f
+}
+.important-content-section{
+    background-color:#0a0a0a;border-width:0
+}
+.section-in-highlight{
+    background-color:#101011
+}
+.section-in-highlight-other,.projects-select-view select{
+    background-color:#19191b
+}
+.buttons-view-content,.selects-container select,.projects-list-links li,.subtitles-main span,.links-fast-results,.links-list-results-message,.icon-open-book-in-html-div-1,.icon-open-book-in-html-div-2,.icon-open-book-in-html span,.icon-warnings-in-html div,.warnings-list li,.content-hidden,.form-search input,.close-content-hidden button,.main-navigation-buttons-fixed,.icon-warnings-in-html span,.warnings-list-span span,.warnings-list i,.content-hidden-titles span,#footer-main,.library-start-links a{
+    border-color:#6b6868
+}
+.menu-button div,.menu-button span,.warning-button span,.search-button-span-1,.search-button-span-2,.warning-button div{
+    border-color:#c1c1c1
+}
+ .loading-message,body,a,.menu-button,.search-button,.warning-button,.form-search input,#footer-main,.social-pages-links li,.important-content-section,.important-content-section mark,.close-content-hidden button,.icon-open-book-in-html,.main-navigation-buttons,select,.buttons-view-content,#footer-main a,.social-pages-links a,.fixed-tools-button, .code-example{
+     color:#e0dddd
+}
+.fixed-tools nav,.fixed-tools-button,.menu-button,.search-button,.warning-button,.close-content-hidden button,.icon-open-book-in-html,.icon-warnings-in-html{
+    background-color:transparent
+}
+.selects-container select,.main-navigation-buttons-fixed,#footer-main,.important-content-section-aside{
+    background-color:#0a0a0a
+}
+.content-hidden,.search-button,.warning-button,.menu-button{
+    background-color:#111
+}
+.form-search input,.warnings-list i,.important-content-section mark,.subtitle-marked,.social-pages-links li{
+    background-color:#1e1e1e
+}
+.form-search button,.warnings-list i{
+    background-color:#ada9a9
+}
+.logo a,.main-menu a,.main-menu-platforms a,.anchor-link-style-button a,#footer-main a{
+    text-decoration:none
+}
+a,.warnings-list-span span,#footer-main a:hover{
+    text-decoration:underline
+}
+.loading-message,body,.close-content-hidden, .code-example{
+    background-color:#000
+}
+:focus{
+    outline:none
+}
+::-moz-focus-inner{
+    border:0
+}
+a:focus,input:focus,button:focus *,select:hover,select:focus,a:hover,input:hover,button:hover *{
+    border-color:#0095dd
+}
+.close-content-hidden:hover button,.close-content-hidden:focus button,.close-content-hidden button:hover,.close-content-hidden button:focus,.anchor-link-style-button a:focus,.anchor-link-style-button a:hover{
+    border-color:#0095dd;color:#0095dd
+}
+a:hover,a:focus,.form-search button:hover,.form-search button:focus{
+    color:#0095dd
+}
+.fixed-tools-button:focus.fixed-tools-button .icon-open-book-in-html-medium div,.fixed-tools-button:hover.fixed-tools-button .icon-open-book-in-html-medium div{
+    background-color:#0b2735;border-color:#ccc5c5
+}
+.fixed-tools-button:hover.fixed-tools-button .icon-open-book-in-html-medium span,.fixed-tools-button:focus.fixed-tools-button .icon-open-book-in-html-medium span{
+    border-color:#ccc5c5
+}

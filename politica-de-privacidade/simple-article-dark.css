@@ -1,0 +1,12 @@
+.FlyNeves-logo-black{
+    visibility: hidden;
+    height: 0;
+    width: 0;
+    display: none;
+    position: absolute;
+}
+.simple-article, body, .donate-button-link a{
+    color: white;
+    background-color: #191a20;
+}
+.home-image-text-2{background-color:#1d1e29;}.home-image-text-3{background-color:#1c1e24;}.icon-construction-building-html-medium{border-color:#0e4663;}.icon-construction-building-html-medium span{border-color:rgb(96,158,179);}

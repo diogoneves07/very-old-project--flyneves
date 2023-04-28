@@ -1,0 +1,11 @@
+.FlyNeves-logo-black{
+    visibility: hidden;
+    height: 0;
+    width: 0;
+    display: none;
+    position: absolute;
+}
+.loading-message{
+    background-color: #000;
+    color: rgb(224, 221, 221);
+}

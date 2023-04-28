@@ -1,0 +1,188 @@
+.section-in-highlight{
+    float: left;
+    text-align: justify;
+    width: 89%;
+    margin: 50px 2% 70px;
+    padding: 30px 2% 10px 5%;
+    
+}
+.section-in-highlight h1, .section-in-highlight p{
+    float: left;
+    width: 90%;
+    margin:10px 0;
+}
+.project-logo img{
+height: 45px;
+margin-top: 20px;
+}
+.section-in-highlight p{
+    
+    width: 88%;
+    margin-left: 4%;
+    margin-top: 40px;
+}
+.projects-select-view{
+    float: left;
+    width: 100%;
+    position: relative;
+    top:70px;
+}
+.projects-select-view select{
+    height: 40px;
+    padding: 10px;
+    float: left;
+    width: 200px;
+    position: relative;
+    left:5%;
+    border: 1px solid;
+    border-radius: 10% 0;
+
+}
+.section-in-highlight-other{
+    float: left;
+    width: 90%;
+    margin: 10px 5%;
+    
+    position: relative;
+    top:80px;
+    border-radius: 10% 0;
+    padding:20px 0;
+}
+
+
+
+
+
+.compatibility-table-between-browsers{
+    float: left;
+    width: 97%;
+    text-align: center;
+margin: 20px 0 0 3%;
+overflow: auto;
+}
+.compatibility-table-between-browsers li{
+    float: left;
+    width: 150px;
+    height: 100px;
+    border: 1px solid #464545;
+    list-style: none;
+    margin: 25px 15px;
+    padding: 10px;
+    border-radius: 3px;
+}
+.compatibility-table-between-browsers span{
+    float: left;
+    width: 100%; 
+    border-bottom: 4px solid #464545;
+    border-radius: 20px;
+    margin: 10px 0;
+    text-shadow: 1px 1px 2px #464545;
+}
+.compatibility-table-between-browsers mark{
+    padding: 5px 20px;
+}
+
+
+.documentation-links{
+    float: left;
+    width: 100%;
+}
+.documentation-links li{
+    margin: 40px 0 60px;
+}
+.documentation-links a{
+text-decoration: none;
+padding: 10px 30px;
+padding-right: 20px;
+border-style: solid ;
+border-width: 0px 3px 3px 0px;
+border-radius: 100%;
+}
+
+.documentation-links-button {
+    float: left;
+    width: 90%;
+    margin-top: 30px;
+    padding-bottom: 5px;
+
+}
+.documentation-links-button ul{
+    float: left;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.documentation-links-button li{
+    list-style: none;
+    float: left;
+    margin: 40px 20px 0;
+}
+.documentation-links-button a{
+    text-decoration: none;
+    margin: 0;
+    padding: 10px 20px;
+}
+
+
+
+.download-library-button{
+    float: left;
+    width: 100%;
+    text-align:center;
+    margin-top: 20px;
+}
+.download-library-button a{
+    height: 33px;
+    width: 200px;
+    padding-top: 7px;
+    display: inline-block;
+    border-radius: 0 10% 0 10%;
+    border-width: 1px 2px 2px 1px;
+    border-style: solid;
+    
+}
+
+
+
+
+.textFieldRange-tutorial {
+    float: left;
+    width: 100%;
+
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+.textFieldRange-tutorial div{
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+.textFieldRange-tutorial textarea {
+    height: 200px;
+    width: 95%;
+    float: left;
+    margin: 10px 0;
+    padding: 2.5%;
+    border: 1px solid;
+    line-height: 30px;
+}
+.textFieldRange-tutorial button {
+    padding: 5px 10px;
+    height: 30px;
+    cursor: pointer;
+    line-height: 15px;
+    margin: 15px;
+    border-style: solid;
+    border-width: 1px 2px 2px 1px;    
+
+}
+.textFieldRange-tutorial input {
+    padding: 5px 10px;
+    height: 30px;
+    border: 1px solid transparent;
+}
+.textFieldRange-tutorial textarea,
+.textFieldRange-tutorial input {
+    font-size: 18px;
+}

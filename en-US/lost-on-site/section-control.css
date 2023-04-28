@@ -1,0 +1,81 @@
+.section-in-highlight{
+    float: left;
+    text-align: justify;
+    width: 89%;
+    margin: 50px 2% 70px;
+    padding: 30px 2% 10px 5%;
+    
+}
+.section-in-highlight h1, .section-in-highlight p{
+    float: left;
+    width: 90%;
+    margin:10px 0;
+}
+.section-in-highlight p{
+    
+    width: 88%;
+    margin-left: 4%;
+    margin-top: 40px;
+}
+.projects-select-view{
+    float: left;
+    width: 100%;
+    position: relative;
+    top:70px;
+}
+.projects-select-view select{
+    height: 40px;
+    padding: 10px;
+    float: left;
+    width: 200px;
+    position: relative;
+    left:5%;
+    border: 1px solid;
+    border-radius: 10% 0;
+
+}
+.section-in-highlight-other{
+    float: left;
+    width: 90%;
+    margin: 10px 5%;
+    
+    position: relative;
+    top:80px;
+    border-radius: 10% 0;
+    padding:20px 0;
+}
+
+
+.home-image-text-2,
+.home-image-text-3
+{
+    float: left;
+    width: 90%;
+    margin-top: 50px;
+    padding: 5%;
+    /*box-shadow: 0 1px 10px 0 #353b4e;*/
+}
+.home-image-text-1{
+    border-radius: 10% 0;
+}
+.home-image-text-1 img{
+    display: inline-block;
+}
+
+
+.home-image-text-2 span{
+float: left;
+width: 100%;
+font-size: 60px;
+text-align: center;
+}
+.home-image-text-3{
+    text-align: center;
+    }
+.icon-construction-building-html-medium{
+    display: inline-block;
+    width: 80px;
+    height: 60px;
+    padding-top:20px;
+    border:1px solid ;
+}

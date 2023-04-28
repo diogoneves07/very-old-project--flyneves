@@ -1,0 +1,101 @@
+.section-in-highlight{
+    float: left;
+    text-align: justify;
+    width: 89%;
+    margin: 50px 2% 90px;
+    padding: 30px 2% 10px 5%;
+}
+.section-in-highlight h1, .section-in-highlight p{
+    float: left;
+    width: 90%;
+    margin:10px 0;
+}
+.section-in-highlight p{
+    
+    width: 88%;
+    margin-left: 4%;
+    margin-top: 40px;
+}
+.projects-select-view{
+    float: left;
+    width: 100%;
+    position: relative;
+    top:70px;
+}
+.projects-select-view select{
+    height: 40px;
+    padding: 10px;
+    float: left;
+    width: 200px;
+    position: relative;
+    left:5%;
+    border: 1px solid;
+    border-radius: 10% 0;
+
+}
+.section-in-highlight-other{
+    float: left;
+    width: 90%;
+    margin: 10px 5%;
+    
+    position: relative;
+    top:100px;
+    border-radius: 10% 0;
+}
+
+
+.projects-list {
+    padding: 0 0;
+    overflow-y: hidden;
+    overflow-x: auto;
+    display: inline-block;
+    width: 100px;
+    margin-bottom: 10px;
+}
+.projects-list-links {
+    margin: 40px 0 0;
+
+    display: inline-block;
+    height: 250px;
+}
+.projects-list-links li {
+    height: 200px;
+    width: 300px;
+    border: 1px solid;
+    float: left;
+    margin: 20px 50px;
+
+    vertical-align: top;
+    text-align: center;
+    list-style: none;
+    overflow: hidden;
+}
+.projects-list-links img {
+    float: left;
+    border-image: none;
+    border: 0;
+}
+.projects-list-links a {
+    float: left;
+    font-weight: 600;
+
+    height: 100%;
+    width: 100%;
+    border-radius: 0 0 50px 50px;
+    border-style: solid;
+    border-width: 0 0 1px;
+}
+
+.textFieldRange-icon{
+    margin: 75px 5%;
+    height: 45px;
+    width: 90%;
+    
+}
+.controlAnimation-icon{
+    margin: 40px 5%;
+    height: 85px;
+    width: 90%;
+    
+    
+}

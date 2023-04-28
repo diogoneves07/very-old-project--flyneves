@@ -1,0 +1,560 @@
+.FlyNeves-logo-black{
+    visibility:hidden;height:0;width:0;display:none;position:absolute
+}
+.fixed-tools h2{
+    border-color:#979797
+}
+.anchor-link-style-button a{
+    background-color:#979797;color:#000
+}
+.anchor-link-style-button a:hover,
+.anchor-link-style-button a:focus{
+    background-color:#353333
+}
+.code-example {
+    border-color: #000;
+}
+.code-comment{
+    color: rgb(122, 160, 47);
+}
+.download-library-button a{
+    background-color: rgb(199, 198, 198);
+    border-color: rgb(102, 102, 102);
+    color: #000
+}
+.menu-button span{
+    color:transparent
+}
+.footer-main-split-bar{
+    border-color:#42425a
+}
+.footer-main-container li{
+    border-color:transparent
+}
+.projects-list-links a:hover,
+.projects-list-links a:focus{
+    background-color:#191a20;border-color:#0095dd
+}
+.projects-list-links span{
+    color:orange
+}
+.paragraph-of-attention i,
+.paragraph-of-attention span,
+.projects-list-links a{
+    border-color:white
+}
+.important-content-section-aside h2,
+.fixed-tools div,
+.fixed-tools-button{
+    border-color:#3d7e9a
+}
+.form-search input,
+.form-search button{
+    color:#000
+}
+.warning-button span,
+.icon-warnings-in-html span{
+    color:red
+}
+.buttons-view-content{
+    background-color:#050505
+}
+.important-content-section{
+    background-color:#23262e;border-width:0
+}
+.section-in-highlight,
+.links-conteiner,
+.important-content-section-aside{
+    background-color:#23262e
+}
+.section-in-highlight-other{
+    background-color:#282b35
+}
+.projects-select-view select{
+    background-color:#181a20
+}
+.buttons-view-content,
+select,
+.projects-list-links li,
+.subtitles-main span,
+.links-fast-results,
+.links-list-results-message,
+.icon-open-book-in-html-div-1,
+.icon-open-book-in-html-div-2,
+.icon-open-book-in-html span,
+.icon-warnings-in-html div,
+.warnings-list li,
+.content-hidden,
+.form-search input,
+.close-content-hidden button,
+.icon-warnings-in-html span,
+.warnings-list-span span,
+.warnings-list i,
+.content-hidden-titles span,
+.menu-button div,
+.menu-button span,
+.warning-button span,
+.main-navigation-buttons-fixed,
+.search-button-span-1,
+.search-button-span-2,
+.warning-button div,
+#footer-main,
+.library-start-links a{
+    border-color:#777575
+}
+.loading-message,
+body,
+a,
+.menu-button,
+.search-button,
+.warning-button,
+#footer-main,
+.social-pages-links li,
+.important-content-section,
+.important-content-section mark,
+.close-content-hidden button,
+.icon-open-book-in-html,
+.main-navigation-buttons,
+select,
+.buttons-view-content,
+#footer-main a,
+.social-pages-links a,
+.fixed-tools-button{
+    color:white
+}
+.fixed-tools nav,
+.fixed-tools-button,
+.menu-button,
+.search-button,
+.warning-button,
+.close-content-hidden button,
+.icon-open-book-in-html,
+.icon-warnings-in-html{
+    background-color:transparent
+}
+.icon-open-book-in-html-medium div,
+.fixed-tools-container,
+.main-navigation-buttons-fixed,
+select,
+.close-content-hidden,
+#footer-main{
+    background-color:#000
+}
+.content-hidden,
+.search-button,
+.warning-button,
+.menu-button{
+    background-color:#0f0f0f
+}
+.code-example,
+.important-content-section mark,
+.subtitle-marked,
+.social-pages-links li{
+    background-color:#16181d
+}
+.form-search input.form-search button,
+.warnings-list i{
+    background-color:#ccc5c5
+}
+.logo a,
+.main-menu a,
+.main-menu-platforms a,
+.anchor-link-style-button a,
+#footer-main a{
+    text-decoration:none
+}a,
+.warnings-list-span span,
+#footer-main a:focus,
+#footer-main a:hover{
+    text-decoration:underline
+}
+.loading-message,
+body{
+    background-color:#191a20
+}:focus{
+    outline:none
+}::-moz-focus-inner{
+    border:0
+}a:focus,
+input:focus,
+button:focus *,
+select:hover,
+select:focus,
+a:hover,
+input:hover,
+button:hover *{
+    border-color:#0095dd
+}
+.close-content-hidden:hover button,
+.close-content-hidden:focus button,
+.close-content-hidden button:hover,
+.close-content-hidden button:focus,
+.anchor-link-style-button a:focus,
+.anchor-link-style-button a:hover{
+    border-color:#0095dd;color:#0095dd
+}a:hover,
+a:focus,
+.form-search button:hover,
+.form-search button:focus{
+    color:#0095dd
+}
+.fixed-tools-button:focus.fixed-tools-button .icon-open-book-in-html-medium div,
+.fixed-tools-button:hover.fixed-tools-button .icon-open-book-in-html-medium div{
+    background-color:#0b2735;border-color:#ccc5c5
+}
+.fixed-tools-button:hover.fixed-tools-button .icon-open-book-in-html-medium span,
+.fixed-tools-button:focus.fixed-tools-button .icon-open-book-in-html-medium span{
+    border-color:#ccc5c5
+} &! .FlyNeves-logo-white{
+    visibility:hidden;height:0;width:0;display:none;position:absolute
+}
+.icon-open-book-in-html-medium div,.fixed-tools-container{
+    border-color:#3d7e9a;background-color:#e9e7e7
+}
+.anchor-link-style-button a{
+    background-color:white;color:#000
+}
+
+.code-example {
+    border-color: rgb(34, 33, 33);
+}
+.code-comment{
+    color: rgb(56, 56, 224);
+}
+.download-library-button a{
+    background-color: rgb(199, 198, 198);
+    border-color: rgb(102, 102, 102);
+    color: #000
+}
+.menu-button span{
+    color:transparent
+}
+.footer-main-split-bar{
+    border-color:#42425a
+}
+.footer-main-container li{
+    border-color:transparent
+}
+.paragraph-of-attention i,.paragraph-of-attention span,.fixed-tools h2{
+    border-color:white
+}
+.important-content-section-aside h2,.fixed-tools-button{
+    border-color:#3d7e9a
+}
+.warning-button span,.icon-warnings-in-html span{
+    color:red
+}
+.important-content-section{
+    background-color:#e9e7e7;border-width:0
+}
+.section-in-highlight{
+    background-color:#e1e2e6
+}
+.projects-select-view select{
+    background-color:#ccc8c8
+}
+
+.buttons-view-content,.selects-container select,.projects-list-links li,.subtitles-main span,.links-fast-results,.links-list-results-message,.icon-open-book-in-html-div-1,.icon-open-book-in-html-div-2,.icon-open-book-in-html span,.icon-warnings-in-html div,.warnings-list li,.content-hidden,.form-search input,.close-content-hidden button,.icon-warnings-in-html span,.warnings-list-span span,.warnings-list i,.content-hidden-titles span,.main-navigation-buttons-fixed,#footer-main,.library-start-links a{
+    border-color:#727171
+}
+.menu-button div,.menu-button span,.warning-button span,.search-button-span-1,.search-button-span-2,.warning-button div,.projects-list-links a{
+    border-color:#000
+}
+.loading-message,body,a,.menu-button,.search-button,.warning-button,.form-search input,.form-search button,#footer-main,.social-pages-links li,.important-content-section,.important-content-section mark,.close-content-hidden button,.icon-open-book-in-html,.main-navigation-buttons,.buttons-view-content,#footer-main a,.social-pages-links a,.library-start-links li,.fixed-tools-button{
+    color:#000
+}
+.fixed-tools nav,.fixed-tools-button,.menu-button,.warning-button,.close-content-hidden button,.icon-open-book-in-html,.icon-warnings-in-html,.library-start-links li{
+    background-color:transparent
+}
+.main-navigation-buttons-fixed,#footer-main,.important-content-section-aside{
+    background-color:#e9e7e7
+}
+.content-hidden,.search-button,.warning-button,.menu-button,.buttons-view-content{
+    background-color:#dfdfdf
+}
+.section-in-highlight-other,.important-content-section mark,.code-example,.subtitle-marked,.social-pages-links li,.anchor-link-style-button a:hover,.anchor-link-style-button a:focus{
+    background-color:#cfcfd3;
+}
+.projects-list-links a:hover{
+    background-color:#f0f0f0
+}
+.form-search input,.form-search button,.form-default button,.warnings-list i{
+    background-color:#f0f0f0
+}
+.logo a,.main-menu a,.main-menu-platforms a,.library-start-links a,.anchor-link-style-button a,#footer-main a{
+    text-decoration:none
+}
+a,.warnings-list-span span,#footer-main a:hover{
+    text-decoration:underline
+}
+.loading-message,body,.close-content-hidden{
+    background-color:#fff
+}
+:focus{
+    outline:none
+}
+::-moz-focus-inner{
+    border:0
+}
+a:focus,input:focus,button:focus *,select:hover,select:focus,a:hover,input:hover,button:hover *{
+    border-color:blue
+}
+.close-content-hidden:hover button,.close-content-hidden:focus button,.close-content-hidden button:hover,.close-content-hidden button:focus,.anchor-link-style-button a:focus,.anchor-link-style-button a:hover,a:hover{
+    border-color:blue;color:blue
+}
+a:hover,a:focus,.form-search button:hover,.form-search button:focus{
+    color:blue
+}
+.fixed-tools-button:focus.fixed-tools-button .icon-open-book-in-html-medium div,.fixed-tools-button:hover.fixed-tools-button .icon-open-book-in-html-medium div{
+    background-color:#36393a;border-color:#ccc5c5
+}
+.fixed-tools-button:hover.fixed-tools-button .icon-open-book-in-html-medium span,.fixed-tools-button:focus.fixed-tools-button .icon-open-book-in-html-medium span{
+    border-color:#ccc5c5
+}
+
+ &!
+
+
+ .FlyNeves-logo-black{
+    visibility:hidden;height:0;width:0;display:none;position:absolute
+}
+.fixed-tools-container{
+    border-color:#3d7e9a;background-color:#1e1e1e
+}
+.icon-open-book-in-html-medium div{
+    background-color:yellow;border-color:#3d7e9a
+}
+.icon-open-book-in-html-medium span{
+    border-color:#000
+}
+.fixed-tools h2{
+    border-color:#979797
+}
+.anchor-link-style-button a{
+    background-color:#0a0a0a;color:yellow
+}
+.anchor-link-style-button a:hover,.anchor-link-style-button a:focus{
+    background-color:#353333
+}
+
+.code-example {
+    border-color: #19191b;
+    background-color: #000;
+}
+.code-comment{
+    color: rgb(122, 160, 47);
+}
+.menu-button span{
+    color:transparent
+}
+
+.download-library-button a{
+    background-color: yellow;
+    border-color: rgb(102, 102, 102);
+    color: #000
+}
+.footer-main-split-bar{
+    border-color:#42425a
+}
+.footer-main-container li{
+    border-color:transparent
+}
+.projects-list-links a:hover,.projects-list-links a:focus{
+    background-color:#000;border-color:#0095dd
+}
+.paragraph-of-attention i,.paragraph-of-attention span{
+    border-color:white
+}
+.important-content-section-aside h2,.fixed-tools-button{
+    border-color:#3d7e9a
+}
+.warning-button span,.icon-warnings-in-html span{
+    color:red
+}
+.buttons-view-content{
+    background-color:#0f0f0f
+}
+.important-content-section{
+    background-color:#0a0a0a;border-width:0
+}
+.section-in-highlight{
+    background-color:#101011
+}
+.section-in-highlight-other,.projects-select-view select{
+    background-color:#19191b
+}
+.loading-message,body,a,.menu-button,.search-button,.warning-button,.form-search input,#footer-main,.social-pages-links li,.important-content-section,.important-content-section mark,.close-content-hidden button,.icon-open-book-in-html,.main-navigation-buttons,.buttons-view-content,.fixed-tools-button{
+    color:#fff
+}
+.fixed-tools nav,.fixed-tools-button,.menu-button,.search-button,.warning-button,.close-content-hidden button,.icon-open-book-in-html,.icon-warnings-in-html{
+    background-color:transparent
+}
+.main-navigation-buttons-fixed,.selects-container select,#footer-main,.important-content-section-aside{
+    background-color:#0a0a0a
+}
+.content-hidden,.search-button,.warning-button,.menu-button{
+    background-color:#111
+}
+.form-search input,.warnings-list i,.important-content-section mark,.subtitle-marked,.social-pages-links li{
+    background-color:#1e1e1e
+}
+.logo a,.main-menu a,.main-menu-platforms a,.anchor-link-style-button a,#footer-main a{
+    text-decoration:none
+}
+a,.warnings-list-span span,#footer-main a:hover{
+    text-decoration:underline
+}
+select,#footer-main a,.social-pages-links a,a{
+    color:yellow
+}
+select,.selects-container select,.menu-button div,.menu-button span,.warning-button span,.search-button-span-1,.search-button-span-2,.warning-button div,.projects-list-links li,.projects-list-links a{
+    border-color:yellow
+}
+.form-search button{
+    background-color:yellow;color:#000
+}
+.loading-message,body,.close-content-hidden{
+    background-color:#000
+}
+:focus{
+    outline:none
+}
+::-moz-focus-inner{
+    border:0
+}
+select:hover,select:focus{
+    background-color:green
+}
+a:focus,input:focus,button:focus *,a:hover,input:hover,button:hover *{
+    border-color:green
+}
+.close-content-hidden:hover button,.close-content-hidden:focus button,.close-content-hidden button:hover,.close-content-hidden button:focus,.anchor-link-style-button a:focus,.anchor-link-style-button a:hover{
+    border-color:green;color:green
+}
+a:hover,a:focus,.form-search button:hover,.form-search button:focus{
+    color:green
+}
+.fixed-tools-button:focus.fixed-tools-button .icon-open-book-in-html-medium div,.fixed-tools-button:hover.fixed-tools-button .icon-open-book-in-html-medium div{
+    background-color:green;border-color:#ccc5c5
+}
+.fixed-tools-button:hover.fixed-tools-button .icon-open-book-in-html-medium span,.fixed-tools-button:focus.fixed-tools-button .icon-open-book-in-html-medium span,.buttons-view-content,.selects-container select,.subtitles-main span,.links-fast-results,.links-list-results-message,.icon-open-book-in-html-div-1,.icon-open-book-in-html-div-2,.icon-open-book-in-html span,.icon-warnings-in-html div,.warnings-list li,.content-hidden,.form-search input,.close-content-hidden button,.icon-warnings-in-html span,.warnings-list-span span,.warnings-list i,.content-hidden-titles span,.main-navigation-buttons-fixed,#footer-main,.library-start-links a{
+    border-color:#ccc5c5
+}
+
+&!
+
+
+.FlyNeves-logo-black{
+    visibility:hidden;height:0;width:0;display:none;position:absolute
+}
+.icon-open-book-in-html-medium div,.fixed-tools-container,.fixed-tools-button{
+    border-color:#3d7e9a;background-color:#1e1e1e
+}
+.fixed-tools h2{
+    border-color:#979797
+}
+.anchor-link-style-button a{
+    background-color:#979797;color:#000
+}
+.anchor-link-style-button a:hover,.anchor-link-style-button a:focus{
+    background-color:#353333
+}
+
+.code-example {
+    border-color: #19191b;
+}
+.code-comment{
+    color: rgb(122, 160, 47);
+}
+.download-library-button a{
+    background-color: #000;
+    border-color: rgb(102, 102, 102);
+}
+
+.menu-button span{
+    color:transparent
+}
+.footer-main-split-bar{
+    border-color:#42425a
+}
+.footer-main-container li{
+    border-color:transparent
+}
+.projects-list-links a:hover{
+    background-color:#000;border-color:#0095dd
+}
+.paragraph-of-attention i,.paragraph-of-attention span,.projects-list-links a{
+    border-color:white
+}
+.important-content-section-aside h2{
+    border-color:#3d7e9a
+}
+.warning-button span,.icon-warnings-in-html span{
+    color:red
+}
+.buttons-view-content{
+    background-color:#0f0f0f
+}
+.important-content-section{
+    background-color:#0a0a0a;border-width:0
+}
+.section-in-highlight{
+    background-color:#101011
+}
+.section-in-highlight-other,.projects-select-view select{
+    background-color:#19191b
+}
+.buttons-view-content,.selects-container select,.projects-list-links li,.subtitles-main span,.links-fast-results,.links-list-results-message,.icon-open-book-in-html-div-1,.icon-open-book-in-html-div-2,.icon-open-book-in-html span,.icon-warnings-in-html div,.warnings-list li,.content-hidden,.form-search input,.close-content-hidden button,.main-navigation-buttons-fixed,.icon-warnings-in-html span,.warnings-list-span span,.warnings-list i,.content-hidden-titles span,#footer-main,.library-start-links a{
+    border-color:#6b6868
+}
+.menu-button div,.menu-button span,.warning-button span,.search-button-span-1,.search-button-span-2,.warning-button div{
+    border-color:#c1c1c1
+}
+ .loading-message,body,a,.menu-button,.search-button,.warning-button,.form-search input,#footer-main,.social-pages-links li,.important-content-section,.important-content-section mark,.close-content-hidden button,.icon-open-book-in-html,.main-navigation-buttons,select,.buttons-view-content,#footer-main a,.social-pages-links a,.fixed-tools-button, .code-example{
+     color:#e0dddd
+}
+.fixed-tools nav,.fixed-tools-button,.menu-button,.search-button,.warning-button,.close-content-hidden button,.icon-open-book-in-html,.icon-warnings-in-html{
+    background-color:transparent
+}
+.selects-container select,.main-navigation-buttons-fixed,#footer-main,.important-content-section-aside{
+    background-color:#0a0a0a
+}
+.content-hidden,.search-button,.warning-button,.menu-button{
+    background-color:#111
+}
+.form-search input,.warnings-list i,.important-content-section mark,.subtitle-marked,.social-pages-links li{
+    background-color:#1e1e1e
+}
+.form-search button,.warnings-list i{
+    background-color:#ada9a9
+}
+.logo a,.main-menu a,.main-menu-platforms a,.anchor-link-style-button a,#footer-main a{
+    text-decoration:none
+}
+a,.warnings-list-span span,#footer-main a:hover{
+    text-decoration:underline
+}
+.loading-message,body,.close-content-hidden, .code-example{
+    background-color:#000
+}
+:focus{
+    outline:none
+}
+::-moz-focus-inner{
+    border:0
+}
+a:focus,input:focus,button:focus *,select:hover,select:focus,a:hover,input:hover,button:hover *{
+    border-color:#0095dd
+}
+.close-content-hidden:hover button,.close-content-hidden:focus button,.close-content-hidden button:hover,.close-content-hidden button:focus,.anchor-link-style-button a:focus,.anchor-link-style-button a:hover{
+    border-color:#0095dd;color:#0095dd
+}
+a:hover,a:focus,.form-search button:hover,.form-search button:focus{
+    color:#0095dd
+}
+.fixed-tools-button:focus.fixed-tools-button .icon-open-book-in-html-medium div,.fixed-tools-button:hover.fixed-tools-button .icon-open-book-in-html-medium div{
+    background-color:#0b2735;border-color:#ccc5c5
+}
+.fixed-tools-button:hover.fixed-tools-button .icon-open-book-in-html-medium span,.fixed-tools-button:focus.fixed-tools-button .icon-open-book-in-html-medium span{
+    border-color:#ccc5c5
+}
